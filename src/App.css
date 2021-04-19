@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.nav-image{
+  width: 50%;
+}
+
+.card{
+  background-color: pink;
+}
+
+.white{
+  color: white !important;
+  font-size:18px ;
+}
+.grey{
+  background-color: #C4C4C4;
+}
+.blue{
+  color: blue;
+}
+.image1{
+  width: 25%;
+}
+.red{
+  color: red !important;
+}
+.nav-img{
+width: 30%;
+}
+
+.logo{
+  width: 23% !important;
+}
